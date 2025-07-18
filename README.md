@@ -165,6 +165,6 @@ The ESP32 uploads sensor data to **ThingSpeak** using the official REST API. The
 
 ## Author
 
-**Sourashis Das**
-IoT and Embedded Systems Developer
+**Soumil Majumdar**
+
 
